@@ -5,7 +5,7 @@ This repository contains keyboard firmware based on the [qmk\_firmware](http://g
 ## Building
 ```sh
 make git-submodule
-make vortex/core:ewpratten
+make vortex/core:razdva36
 ```
 
 ## Installation
